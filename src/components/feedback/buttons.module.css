@@ -1,0 +1,13 @@
+.btn {
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: 700;
+    border-radius: 8px;
+    
+    margin-left: 65px;
+}
+
+.btn:hover,
+.element:focus {
+    box-shadow: 0px 0px 8px 0px #626262;
+}
